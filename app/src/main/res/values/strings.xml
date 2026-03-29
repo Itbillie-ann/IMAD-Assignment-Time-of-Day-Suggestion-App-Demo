@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Assignments1</string>
+    <string name="suggestion_default">Suggestion will appear here</string>
+    <string name="hint_time_of_day">Enter time of day (e.g., Morning)</string>
+    <string name="button_reset">Reset</string>
+    <string name="button_submit">Submit</string>
+    <string name="error_invalid_input">Please enter a valid time of day (Morning, Afternoon, etc.)</string>
+    <string name="hey_image_description">Greeting Image</string>
+</resources>
